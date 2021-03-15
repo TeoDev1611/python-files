@@ -1,5 +1,3 @@
-# NOTE: THIS REPOSITORY IS NOT FINISHED AND NOT HAVE A RELEASE
-
 # What is this ? 🧐
 
 ![File Image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Text-x-generic.svg/1024px-Text-x-generic.svg.png)
@@ -10,9 +8,9 @@ A library for make many operations for files Move Delete Name Filter ETC
 
 ![Python Logo](https://1000logos.net/wp-content/uploads/2020/08/Python-Logo.png)
 
-`pip install python-files`
+`pip install teo-files`
 
-`py -m pip install python-files`
+`py -m pip install teo-files`
 
 ## Contribute
 
